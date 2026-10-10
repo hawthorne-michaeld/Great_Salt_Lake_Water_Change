@@ -6,7 +6,7 @@ Interactive Google Earth Engine Online Web Map
 
 The web map is published on Google Earth Engine. A general analysis and methods used is presented below.
 
-[View Full, interactive Google Earth Engine Map here:](https://week-1-project-485022.projects.earthengine.app/view/great-salt-lake-water-change-detection)
+[View Full, interactive Google Earth Engine Map here:](https://week-1-project-485022.projects.earthengine.app/view/great_salt-lake-water-change-detection)
 ---------
 Project Overview:
 
