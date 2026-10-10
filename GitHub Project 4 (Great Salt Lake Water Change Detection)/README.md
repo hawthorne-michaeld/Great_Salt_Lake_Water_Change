@@ -1,4 +1,4 @@
-Great Salt Lake Water Change Detection Map
+**Great Salt Lake Water Change Detection Map**
 
 ![Water Change Detection](images/water_change_detection_thumbnail.png)
 ---------
